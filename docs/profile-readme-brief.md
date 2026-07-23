@@ -4,7 +4,7 @@ Use a quiet, editorial profile structure with a theme-aware static name asset. T
 
 Header order:
 1. Headline: `Where perception becomes understanding, and understanding becomes action.`
-2. `Elliot Ji · 季骏` name asset.
+2. `Elliot Ji` name asset.
 3. `EXPLORATIONS`.
 4. Education-only `BACKGROUND`.
 

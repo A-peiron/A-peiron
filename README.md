@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/elliot-ji-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/elliot-ji-light.svg">
-  <img alt="Elliot Ji · 季骏" src="./assets/elliot-ji-light.svg" width="240">
+  <img alt="Elliot Ji" src="./assets/elliot-ji-light.svg" width="240">
 </picture>
 
 <sub><strong>EXPLORATIONS</strong></sub><br>
