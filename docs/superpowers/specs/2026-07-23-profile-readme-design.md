@@ -12,7 +12,7 @@ The profile README must not link to a personal website until one has been deploy
 - Quiet editorial technology: black and white, careful whitespace, thin rules, and a small amount of purposeful movement.
 - The headline is the anchor: `Where perception becomes understanding, and understanding becomes action.`
 - The name appears once below the headline and before the factual index. It is larger than a body label but never competes with the headline.
-- Render only the name as a local, theme-aware static title image with refined serif typography. Everything else remains selectable Markdown text.
+- Render only the name as a small, local, theme-aware static image in ordinary sans-serif typography. Everything else remains selectable Markdown text.
 - No cyberpunk treatment, neon, generic AI imagery, skill charts, badge walls, counters, follower/star displays, typing effects, snakes, project cards, or achievement walls.
 
 GitHub Markdown does not provide reliable custom-font control. Local images can be selected by theme through a `picture` element; SVG scripts and animation are out of scope.
@@ -81,7 +81,7 @@ Place one low-key live GitHub public-activity graph after the prose. It is the o
 ## Asset and implementation constraints
 
 - Keep profile-specific assets in `assets/` and reference them relatively from `README.md`.
-- Use light and dark variants of the name title image through a `picture` element with useful alt text.
+- Use light and dark variants of the name image through a `picture` element with useful alt text. The image has a transparent background, no rule or decoration, and displays at approximately 240px wide.
 - Use GitHub Markdown/HTML only; do not depend on custom CSS or JavaScript in the README.
 - Keep external links limited to public repositories, the paper DOI, and `github-readme-activity-graph.vercel.app` for the public-activity image.
 - Keep the initial README prose-led and scannable, without a CV timeline or a website link.
