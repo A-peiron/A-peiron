@@ -19,7 +19,7 @@ I’m drawn to seeing an idea move from a question, a hunch, or an observation i
 
 I return often to ancient Greek philosophy and modern existentialism, as well as the questions around religion, aesthetics, origins, reason, and humanism. Literature that wrestles with the self and society, alongside history, gives those questions a longer horizon.
 
-Outside the desk, strength training, meditation, reflection, film, and travelling alone are ways to reset attention and keep perspective. Student leadership and campus hosting have also made Elliot comfortable both organising a room and speaking in one.
+Outside the desk, strength training, meditation, reflection, film, and travelling alone are ways to reset attention and keep perspective. Student leadership and campus hosting have also made me comfortable both organising a room and speaking in one.
 
 ## EXPERIENCE & INTERESTS
 
@@ -33,9 +33,9 @@ These are the directions I am exploring through research, engineering, and ongoi
 
 ## CURRENTLY
 
-Elliot is a summer AI Agent Engineering Intern at Nippon Paint (China), working on anonymised multimodal design and recognition workflows. This includes coordinating language, vision, and generative models with review steps, and preparing multimodal RAG for SKU-recognition scenarios.
+This summer, I am an AI Agent Engineering Intern at Nippon Paint (China), working on anonymised multimodal design and recognition workflows. This includes coordinating language, vision, and generative models with review steps, and preparing multimodal RAG for SKU-recognition scenarios.
 
-Elliot is a WorldQuant BRAIN Research Consultant, Gold Level, and continues work on agentic systems for quantitative research and personal systems.
+I am a part-time WorldQuant BRAIN Research Consultant, Gold Level, and continue work on agentic systems for quantitative research and personal systems.
 
 ## GITHUB ACTIVITY
 
