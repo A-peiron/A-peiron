@@ -1,17 +1,20 @@
-## Where perception becomes understanding, and understanding becomes action.
+# Where perception becomes understanding, and understanding becomes action.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/elliot-ji-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/elliot-ji-light.svg">
-  <img alt="Elliot Ji" src="./assets/elliot-ji-light.svg" width="240">
-</picture>
-
-<sub><strong>EXPLORATIONS</strong></sub><br>
-Agentic systems · multimodal perception · graph intelligence · multi-agent learning · embodied intelligence · quantitative research
-
-<sub><strong>BACKGROUND</strong></sub><br>
-M.Sc. in Computer Science, The University of Hong Kong — <code>SEP 2026 — PRESENT</code><br>
-B.Eng. in Computer Science and Technology, Shanghai University — <code>SEP 2022 — JUN 2026</code>
+<table>
+  <tr>
+    <td width="150" valign="top"><sub><strong>EXPLORATIONS</strong></sub></td>
+    <td>Agentic systems · multimodal perception · graph intelligence · multi-agent learning · embodied intelligence · quantitative research</td>
+  </tr>
+  <tr>
+    <td width="150" rowspan="2" valign="top"><sub><strong>EDUCATION</strong></sub></td>
+    <td>M.Sc. in Computer Science, The University of Hong Kong</td>
+    <td align="right" nowrap><code>SEP 2026 — PRESENT</code></td>
+  </tr>
+  <tr>
+    <td>B.Eng. in Computer Science and Technology, Shanghai University</td>
+    <td align="right" nowrap><code>SEP 2022 — JUN 2026</code></td>
+  </tr>
+</table>
 
 ## ABOUT
 

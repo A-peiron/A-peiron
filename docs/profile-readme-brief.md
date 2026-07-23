@@ -1,12 +1,11 @@
 # Profile README Brief
 
-Use a quiet, editorial profile structure with a theme-aware static name asset. The name asset is compact, transparent, ordinary sans-serif, without a rule or decorative treatment.
+Use a quiet, editorial profile structure built from GitHub-native headings and semantic HTML. Do not rely on static signature assets.
 
 Header order:
-1. Headline: `Where perception becomes understanding, and understanding becomes action.`
-2. `Elliot Ji` name asset.
-3. `EXPLORATIONS`.
-4. Education-only `BACKGROUND`.
+1. H1 headline: `Where perception becomes understanding, and understanding becomes action.`
+2. A compact two-row information index: `EXPLORATIONS` plus `EDUCATION`.
+3. Education dates align right in their own table column.
 
 Use exactly these body headings:
 - `ABOUT`
