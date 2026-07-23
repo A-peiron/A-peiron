@@ -50,22 +50,27 @@ Exclude private hobbies and claims of deep academic expertise in these fields.
 
 ### Experience & interests
 
-Introduce the work in a short paragraph, then use five distinct, compact direction entries. Do not force every direction into an Agent framing or merge unrelated areas merely to reduce the list. Each direction may attach a public link naturally; there is no separate projects section.
+The section is interest-led rather than a project list. Open with one short paragraph about the point where perception, structure, decision-making, and interaction meet; then use five distinct, substantive direction entries. Do not force every direction into an Agent framing or merge unrelated areas merely to reduce the list.
 
-1. **Agentic Systems** — tool-using applications and the applied graph-and-agent work in [AcadVex](https://github.com/A-peiron/AcadVex).
-2. **Multimodal Perception & Edge AI** — edge vision, multi-camera tracking, and [Pose-MTMC](https://github.com/A-peiron/Pose-MTMC).
-3. **Graph Intelligence** — graph learning, community mining, link prediction, and related algorithmic work. Do not claim that this work is inherently agentic.
-4. **Multi-Agent Learning & Embodied Intelligence** — cooperative learning research, the [AICCC ’25 paper](https://doi.org/10.1145/3789982.3789990), and [FPGCL](https://github.com/A-peiron/FPGCL).
-5. **AI for Quantitative Research** — systematic quantitative research, research automation, and agent-assisted financial intelligence, without publishing WorldQuant platform material, alpha expressions, strategies, or performance.
+1. **Agentic Systems** — explain the interest in tool use, state, retrieval, and verification as ways to make applications more dependable around structured information.
+2. **Multimodal Perception & Edge AI** — explain the interest in vision under practical constraints: multiple cameras, imperfect signals, limited compute, and outputs a larger system can use.
+3. **Graph Intelligence** — explain the interest in communities, links, group structure, and relationship patterns. Do not claim that this work is inherently agentic.
+4. **Multi-Agent Learning & Embodied Intelligence** — explain the interest in coordination, prediction, action, cooperation, and the connection between simulated and embodied settings.
+5. **AI for Quantitative Research** — explain the interest in systematic research, structured data, and AI support for disciplined research processes, without publishing WorldQuant platform material, alpha expressions, strategies, or performance.
+
+End with one unobtrusive sentence linking the public evidence: [AcadVex](https://github.com/A-peiron/AcadVex), [Pose-MTMC](https://github.com/A-peiron/Pose-MTMC), [FPGCL](https://github.com/A-peiron/FPGCL), and the [AICCC ’25 paper](https://doi.org/10.1145/3789982.3789990). There is no standalone project section.
 
 Do not describe the thesis itself as open source. Its algorithmic innovation is represented by FPGCL and its engineering application by AcadVex.
 
 ### Currently
 
-Use two short paragraphs rather than a chronology:
+Use two short first-person paragraphs rather than a chronology:
 
-- **Nippon Paint (China):** Elliot is a summer AI Agent Engineering Intern, working on anonymised multimodal design and recognition workflows. At a safe high level, this includes coordinating language, vision, and generative models with review steps, and preparing multimodal RAG for SKU-recognition scenarios.
-- **WorldQuant BRAIN and independent work:** Elliot is a part-time WorldQuant BRAIN Research Consultant, Gold Level, and continues building towards agentic work for quantitative research and personal systems.
+> I am currently interning at Nippon Paint (China) as an AI Agent Engineering Intern, working on anonymised multimodal design and recognition workflows—bringing language, vision, and generative models into a more reliable loop of coordination and review.
+
+> I also work part-time as a WorldQuant BRAIN Research Consultant. Alongside this, I keep building personal projects that explore AI applications in different contexts.
+
+Do not display the Gold Level designation, emphasise quantitative research here, or refer to personal systems.
 
 Do not publish internal data, model configurations, prompts, APIs, sample assets, business metrics, customer data, alpha expressions, strategies, performance data, private repository names, or claims about project completion.
 
