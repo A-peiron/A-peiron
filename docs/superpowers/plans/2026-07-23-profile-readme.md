@@ -4,20 +4,20 @@
 
 **Goal:** Create a polished, factual GitHub Profile README for Elliot Ji that establishes his AI application-engineering focus without linking an unfinished website.
 
-**Architecture:** A root `README.md` contains concise Editorial Index content and links only to public repositories. A hand-authored monochrome header SVG provides the visual signature, while one GitHub Actions workflow refreshes a single activity SVG on the `main` branch. The activity workflow uses a scope-less personal access token stored as `METRICS_TOKEN`; the initial README omits Reading and Screen entries until Elliot supplies real selections.
+**Architecture:** A root `README.md` contains concise Editorial Index content and links only to public repositories. A hand-authored monochrome header SVG provides the visual signature. The first release intentionally has no dynamic workflow, counters, or unused personal-content sections.
 
-**Tech Stack:** GitHub-flavored Markdown, inline SVG, GitHub Actions, `lowlighter/metrics`.
+**Tech Stack:** GitHub-flavored Markdown and inline SVG.
 
 ## Global Constraints
 
 - Public name: **Elliot Ji**; GitHub handle: `A-peiron`.
 - Primary identity: **AI Application Engineer focused on Agentic and Intelligent Systems**.
-- Education wording: `Incoming M.Sc. in Computer Science, The University of Hong Kong · From Sep 2026`; do not state a graduation date or GPA.
+- Education wording: `Incoming M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026`; do not state a graduation date or GPA.
 - Do not link to the website before a stable public deployment URL exists.
 - Do not invent Reading or Screen entries.
 - Do not add stars, forks, followers, visitor counters, skill-icon walls, typing animations, snakes, achievement walls, alpha formulas, strategy performance, platform code, private datasets, or client details.
 - Attribute only public repositories: `AcadVex`, `Pose-MTMC`, and `MAPPO-LSTM-Trajectory`.
-- Describe WorldQuant only as `WorldQuant BRAIN — Part-time Research Consultant (Gold Level)`; never imply employment by WorldQuant.
+- Describe WorldQuant only as `WorldQuant BRAIN - Part-time Research Consultant (Gold Level)`; never imply employment by WorldQuant.
 
 ---
 
@@ -30,7 +30,6 @@
 
 **Interfaces:**
 - `README.md` embeds `assets/profile-header.svg` using `![Elliot Ji profile header](./assets/profile-header.svg)`.
-- Task 2 adds a generated activity asset at `./assets/github-metrics.svg` and inserts its Markdown embed into `README.md`.
 
 - [ ] **Step 1: Add the monochrome SVG header**
 
@@ -76,43 +75,11 @@ git add README.md assets/profile-header.svg docs/profile-readme-brief.md
 git commit -m "feat: add editorial GitHub profile"
 ```
 
-### Task 2: Add the one allowed dynamic component
-
-**Files:**
-- Create: `.github/workflows/metrics.yml`
-
-**Interfaces:**
-- The workflow writes `assets/github-metrics.svg`, which is referenced by `README.md`.
-- The workflow runs on `schedule`, `workflow_dispatch`, and pushes to `main`.
-
-- [ ] **Step 1: Add a single metrics workflow**
-
-Before adding the workflow, create a GitHub personal access token with no scopes and save it as the repository Actions secret `METRICS_TOKEN`. Then create `.github/workflows/metrics.yml` using `lowlighter/metrics@latest`, `token: ${{ secrets.METRICS_TOKEN }}`, output `assets/github-metrics.svg`, `template: classic`, and minimal activity-oriented plugins only. Set `commits: true`, `repositories: true`, `languages: false`, `followup: false`, `stars: false`, and `people: false`.
-
-- [ ] **Step 2: Check workflow syntax and scope**
-
-Run:
-
-```powershell
-Get-Content .github/workflows/metrics.yml
-git diff --check
-```
-
-Expected: the workflow has `contents: write`, writes only `assets/github-metrics.svg`, and contains no token literal other than the `secrets.METRICS_TOKEN` reference.
-
-- [ ] **Step 3: Commit the workflow**
-
-```powershell
-git add .github/workflows/metrics.yml README.md
-git commit -m "feat: add profile activity metric"
-```
-
-### Task 3: Review and publish the Profile README
+### Task 2: Review and publish the static Profile README
 
 **Files:**
 - Review: `README.md`
 - Review: `assets/profile-header.svg`
-- Review: `.github/workflows/metrics.yml`
 
 - [ ] **Step 1: Review factual and privacy constraints**
 
@@ -137,4 +104,4 @@ Run:
 git push -u origin main
 ```
 
-Expected: `README.md` renders on `https://github.com/A-peiron`; manually trigger the `Profile Metrics` workflow once and confirm `assets/github-metrics.svg` is committed by GitHub Actions.
+Expected: `README.md` renders on `https://github.com/A-peiron` as a concise static profile card.
