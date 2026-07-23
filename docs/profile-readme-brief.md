@@ -4,8 +4,9 @@ Use a quiet, editorial profile structure built from GitHub-native headings and s
 
 Header order:
 1. H1 headline: `Where perception becomes understanding, and understanding becomes action.`
-2. A compact two-row information index: `EXPLORATIONS` plus `EDUCATION`.
-3. Education dates align right in their own table column.
+2. A compact ordinary-text `Elliot Ji` line.
+3. A compact vertical information index: `EXPLORATIONS` plus `EDUCATION`.
+4. Education dates remain inline in code styling; do not use HTML tables or grid layouts.
 
 Use exactly these body headings:
 - `ABOUT`
