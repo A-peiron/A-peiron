@@ -1,15 +1,25 @@
 # Profile README Brief
 
-Use an Editorial Index structure with a Project Signal-style monochrome SVG header.
+Use a quiet, editorial profile structure with a theme-aware static name asset.
 
-Required sections, in order:
-1. Primary identity and brief education/current-role signal.
-2. Selected Work linking only to public repositories.
-3. Research & Exploration with one AICCC '25 / DOI paper and one graduation thesis.
-4. A concise `Now` section.
-5. Reading and Screen are deferred until Elliot provides real selections; do not create empty public sections or placeholders.
-6. One self-generated GitHub activity SVG in the subsequent activity task.
+Header order:
+1. Headline: `Where perception becomes understanding, and understanding becomes action.`
+2. `Elliot Ji · 季骏` name asset.
+3. `EXPLORATIONS`.
+4. Education-only `BACKGROUND`.
 
-Education wording: `M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026`. Do not include a graduation date or GPA.
+Use exactly these body headings:
+- `ABOUT`
+- `EXPERIENCE & INTERESTS`
+- `CURRENTLY`
 
-Do not add a website link until a deployed portfolio URL exists. Omit stars, forks, followers, visitor counts, skill-icon walls, typing animations, contribution snakes, and achievement walls.
+Keep these five technical directions separate:
+1. Agentic Systems
+2. Multimodal Perception & Edge AI
+3. Graph Intelligence
+4. Multi-Agent Learning & Embodied Intelligence
+5. AI for Quantitative Research
+
+Do not add a website link until a portfolio URL has been deployed. Use one low-key GitHub public-activity graph after the prose; it is the only dynamic component.
+
+Do not add counters, badges, skill-icon walls, typing effects, contribution snakes, trophies, generic AI visuals, or project cards. Use `film` for screen-related prose.
