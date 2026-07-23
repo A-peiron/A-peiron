@@ -1,6 +1,6 @@
 # Profile README Brief
 
-Use a quiet, editorial profile structure with a theme-aware static name asset.
+Use a quiet, editorial profile structure with a theme-aware static name asset. The name asset is compact, transparent, ordinary sans-serif, without a rule or decorative treatment.
 
 Header order:
 1. Headline: `Where perception becomes understanding, and understanding becomes action.`
