@@ -12,7 +12,7 @@
 
 - Public name: **Elliot Ji**; GitHub handle: `A-peiron`.
 - Primary identity: **AI Application Engineer focused on Agentic and Intelligent Systems**.
-- Education wording: `Incoming M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026`; do not state a graduation date or GPA.
+- Education wording: `M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026`; do not state a graduation date or GPA.
 - Do not link to the website before a stable public deployment URL exists.
 - Do not invent Reading or Screen entries.
 - Do not add stars, forks, followers, visitor counters, skill-icon walls, typing animations, snakes, achievement walls, alpha formulas, strategy performance, platform code, private datasets, or client details.
@@ -33,7 +33,7 @@
 
 - [ ] **Step 1: Add the monochrome SVG header**
 
-Create `assets/profile-header.svg` with an accessible SVG `<title>` and a restrained black-and-white editorial layout. Include only `ELLIOT JI`, `AI APPLICATION ENGINEER`, `A-PEIRON`, and a horizontal rule; use no logos, gradients, or animation.
+Create `assets/profile-header.svg` with an accessible SVG `<title>` and a restrained black-and-white editorial layout. Make `BUILDING AGENTIC & INTELLIGENT SYSTEMS` the dominant line; use `ELLIOT JI` only as a smaller signature, with `AI APPLICATION ENGINEER`, `A-PEIRON`, and a horizontal rule below. Use no logos, gradients, or animation.
 
 - [ ] **Step 2: Add the root README**
 

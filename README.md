@@ -6,7 +6,7 @@ AI Application Engineer focused on Agentic and Intelligent Systems.
 
 Building intelligent systems at the intersection of agentic applications, multimodal perception, graph intelligence, and multi-agent learning.
 
-- Incoming M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026
+- M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026
 - B.Eng. in Computer Science and Technology, Shanghai University
 - WorldQuant BRAIN - Part-time Research Consultant (Gold Level)
 

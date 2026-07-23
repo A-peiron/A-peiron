@@ -10,4 +10,6 @@ Required sections, in order:
 5. Reading and Screen are deferred until Elliot provides real selections; do not create empty public sections or placeholders.
 6. One self-generated GitHub activity SVG in the subsequent activity task.
 
+Education wording: `M.Sc. in Computer Science, The University of Hong Kong - From Sep 2026`. Do not include a graduation date or GPA.
+
 Do not add a website link until a deployed portfolio URL exists. Omit stars, forks, followers, visitor counts, skill-icon walls, typing animations, contribution snakes, and achievement walls.
