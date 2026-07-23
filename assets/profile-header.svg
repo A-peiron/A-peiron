@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title">
+  <title id="title">Elliot Ji profile header</title>
+  <rect width="1200" height="220" fill="#ffffff"/>
+  <text x="48" y="95" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="3">ELLIOT JI</text>
+  <text x="51" y="138" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2.5">AI APPLICATION ENGINEER</text>
+  <line x1="48" y1="165" x2="1152" y2="165" stroke="#111111" stroke-width="2"/>
+  <text x="1152" y="200" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" text-anchor="end">A-PEIRON</text>
+</svg>
