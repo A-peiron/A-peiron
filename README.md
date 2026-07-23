@@ -23,19 +23,21 @@ Outside the desk, strength training, meditation, reflection, film, and travellin
 
 ## EXPERIENCE & INTERESTS
 
-These are the directions I am exploring through research, engineering, and ongoing study.
+I keep returning to problems where a model has to become part of a usable system—where perception, structure, decision-making, and interaction have to meet.
 
-- **Agentic Systems.** Tool-using applications and the applied graph-and-agent work in [AcadVex](https://github.com/A-peiron/AcadVex).
-- **Multimodal Perception & Edge AI.** Edge vision, multi-camera tracking, and [Pose-MTMC](https://github.com/A-peiron/Pose-MTMC).
-- **Graph Intelligence.** Graph learning, community mining, link prediction, and related algorithmic work.
-- **Multi-Agent Learning & Embodied Intelligence.** Cooperative learning research, the [AICCC ’25 paper](https://doi.org/10.1145/3789982.3789990), and [FPGCL](https://github.com/A-peiron/FPGCL).
-- **AI for Quantitative Research.** Systematic quantitative research, research automation, and agent-assisted financial intelligence.
+- **Agentic Systems.** I am interested in how tool use, state, retrieval, and verification can make an application more dependable, especially when it has to work with structured information rather than answer in isolation.
+- **Multimodal Perception & Edge AI.** Vision interests me most when it leaves the benchmark and meets a real environment: multiple cameras, imperfect signals, limited compute, and the need to turn what is seen into something a larger system can use.
+- **Graph Intelligence.** I enjoy working with relationships as a first-class part of the problem—communities, links, group structure, and the patterns that emerge when individual observations are placed in context.
+- **Multi-Agent Learning & Embodied Intelligence.** I am drawn to questions of coordination, prediction, and action: how agents learn to cooperate, how they anticipate one another, and how those ideas might extend from simulated settings toward embodied ones.
+- **AI for Quantitative Research.** Quantitative research gives me another setting for systematic thinking: shaping hypotheses, working with structured data, and finding ways for AI to support a disciplined research process.
+
+A few public traces of this work are [AcadVex](https://github.com/A-peiron/AcadVex), [Pose-MTMC](https://github.com/A-peiron/Pose-MTMC), [FPGCL](https://github.com/A-peiron/FPGCL), and my [AICCC ’25 paper](https://doi.org/10.1145/3789982.3789990).
 
 ## CURRENTLY
 
-This summer, I am an AI Agent Engineering Intern at Nippon Paint (China), working on anonymised multimodal design and recognition workflows. This includes coordinating language, vision, and generative models with review steps, and preparing multimodal RAG for SKU-recognition scenarios.
+I am currently interning at Nippon Paint (China) as an AI Agent Engineering Intern, working on anonymised multimodal design and recognition workflows—bringing language, vision, and generative models into a more reliable loop of coordination and review.
 
-I am a part-time WorldQuant BRAIN Research Consultant, Gold Level, and continue work on agentic systems for quantitative research and personal systems.
+I also work part-time as a WorldQuant BRAIN Research Consultant. Alongside this, I keep building personal projects that explore AI applications in different contexts.
 
 ## GITHUB ACTIVITY
 
