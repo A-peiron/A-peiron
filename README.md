@@ -38,6 +38,6 @@ Alongside that work, I work part-time as a WorldQuant BRAIN Research Consultant 
 ## GITHUB ACTIVITY
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=A-peiron&bg_color=0d1117&color=f0f6fc&line=8b949e&point=f0f6fc&area=true&hide_border=true">
-  <img alt="Elliot Ji’s recent GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=A-peiron&bg_color=ffffff&color=24292f&line=57606a&point=24292f&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-peiron/A-peiron/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Elliot Ji's GitHub contribution snake" src="https://raw.githubusercontent.com/A-peiron/A-peiron/output/github-contribution-grid-snake.svg">
 </picture>
